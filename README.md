@@ -1,2 +1,2 @@
 # Site Currículo:
-O link onde está o meu site currículo ainda será colocado aqui.
+arianysant.github.io./Curr-culo_Site/
