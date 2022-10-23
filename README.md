@@ -1,2 +1,2 @@
-# Currículo_Site
-Repositório onde está o meu site currículo.
+# Site Currículo:
+O link onde está o meu site currículo ainda será colocado aqui.
