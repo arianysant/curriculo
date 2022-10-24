@@ -1,2 +1,2 @@
 # Site Currículo:
-https://arianysant.github.io./Curriculo_Site/
+https://arianysant.github.io./curriculo/
