@@ -1067,6 +1067,72 @@ a:hover {
 }
 
 /*--------------------------------------------------------------
+# Portfolio vscode
+--------------------------------------------------------------*/
+.portfolio-vscode {
+  padding-top: 40px;
+}
+
+.portfolio-vscode .portfolio-vscode-slider img {
+  width: 100%;
+}
+
+.portfolio-vscode .portfolio-vscode-slider .swiper-pagination {
+  margin-top: 20px;
+  position: relative;
+}
+
+.portfolio-vscode .portfolio-vscode-slider .swiper-pagination .swiper-pagination-bullet {
+  width: 12px;
+  height: 12px;
+  background-color: #fff;
+  opacity: 1;
+  border: 1px solid #0078ff;
+}
+
+.portfolio-vscode .portfolio-vscode-slider .swiper-pagination .swiper-pagination-bullet-active {
+  background-color: #0078ff;
+}
+
+.portfolio-vscode .portfolio-info {
+  padding: 30px;
+  box-shadow: 0px 0 30px rgba(78, 78, 78, 0.08);
+}
+
+.portfolio-vscode .portfolio-info h3 {
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #eee;
+}
+
+.portfolio-vscode .portfolio-info ul {
+  list-style: none;
+  padding: 0;
+  font-size: 15px;
+}
+
+.portfolio-vscode .portfolio-info ul li+li {
+  margin-top: 10px;
+}
+
+.portfolio-vscode .portfolio-description {
+  padding-top: 30px;
+}
+
+.portfolio-vscode .portfolio-description h2 {
+  font-size: 26px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.portfolio-vscode .portfolio-description p {
+  padding: 0;
+}
+
+
+/*--------------------------------------------------------------
 # Portfolio Details
 --------------------------------------------------------------*/
 .portfolio-details {
@@ -1131,6 +1197,11 @@ a:hover {
   padding: 0;
 }
 
+--------------------------------BD
+.bd{
+  text-align: center;
+}
+
 /*--------------------------------------------------------------
 # Testimonials
 --------------------------------------------------------------*/
@@ -1172,6 +1243,14 @@ div a{
   border-radius: 50%;
   line-height: 1.6;
 }
+
+
+.rounded-circle{
+ width: 30%;
+} 
+
+
+
 
 @media (min-width: 768px) {
   .testimonial-box .description {
